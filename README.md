@@ -4,7 +4,7 @@
 
 Hi
 
-
+<!--
 🌱 Skills  
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>  
@@ -14,7 +14,7 @@ Hi
 Tools  
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/> 
 
-<!--
+
 **changuii/changuii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
