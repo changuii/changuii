@@ -3,7 +3,10 @@
 <img src="https://img.shields.io/badge/rhljh7410@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchanguii&count_bg=%234A74FB&title_bg=%23555555&icon=coursera.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 
-![changui's GitHub stats](https://github-readme-stats.vercel.app/api?username=changuii&show_icons=true&theme=cobalt)
+![changui's GitHub stats](https://github-readme-stats.vercel.app/api?username=changuii&show_icons=true&theme=cobalt)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changuii&layout=compact&theme=cobalt)
+
 
 
 <!--
