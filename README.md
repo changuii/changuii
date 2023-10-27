@@ -29,9 +29,6 @@
 <img src="https://img.shields.io/badge/docker-0769AD?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/hibernate-F7DF1E?style=for-the-badge&logo=hibernate&logoColor=black">
 <img src="https://img.shields.io/badge/apachekafka-181717?style=for-the-badge&logo=apachekafka&logoColor=white">
-
-<br>
-
 <br>
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
