@@ -14,6 +14,7 @@
 - [소상공인을 위한 마케팅 플랫폼] - Django(MSA), MySQL
   - [https://github.com/changuii/DigitalMarketing-Server]
 - [OFFLOAD - 짐 맡기는 플랫폼] - JAVA, Spring Boot, MariaDB
+  - [https://github.com/wara-capstone/CreativeFusion]  
 
 
   
