@@ -56,6 +56,6 @@
 ## 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=changuii&show_icons=true&theme=radical&locale=en&layout=compact" alt="changuii" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cahanguii&show_icons=true&theme=radical&locale=en" alt="changuii" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=changuii&show_icons=true&theme=radical&locale=en" alt="changuii" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=changuii&theme=dark" alt="changuii" /></p>
