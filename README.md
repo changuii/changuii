@@ -11,10 +11,12 @@
 
 <h2 style="display: inline-block; vertical-align: middle;">💼프로젝트 포트폴리오</h2>
 
-- [소상공인을 위한 마케팅 플랫폼] - Django(MSA), MySQL
+- [소상공인을 위한 마케팅 플랫폼] - Spring Boot, MySQL, Kafka, Redis, MSA
   - [https://github.com/changuii/DigitalMarketing-Server]
-- [OFFLOAD - 짐 맡기는 플랫폼] - JAVA, Spring Boot, MariaDB
-  - [https://github.com/wara-capstone/CreativeFusion]  
+- [OFFLOAD - 짐 맡기는 플랫폼] - Spring Boot, MariaDB
+  - [https://github.com/wara-capstone/CreativeFusion]
+- [의류 매장 관리 및 온라인 스토어 플랫폼] - Spring Boot, Spring Eureka, Spring Gateway, MSA
+  - []
 
 
   
