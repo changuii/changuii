@@ -19,6 +19,8 @@
   - [https://github.com/wara-capstone/CreativeFusion]
 - [의류 매장 관리 및 온라인 스토어 플랫폼] - Spring Boot, Spring Eureka, Spring Gateway, MSA
   - []
+- [할랄 음식 매장 웹앱 서비스] - Spring Boot, MySQL
+  - [https://github.com/changuii/HalalService]  
 
 
   
