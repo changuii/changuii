@@ -63,7 +63,7 @@
 
 <h2 style="display: inline-block; vertical-align: middle;">🎞Career </h2>
 
-- 계명대학교 NISL (2022.12 ~ 현재)  
+- [계명대학교 NISL (2022.12 ~ 현재)](http://nisl.kmu.ac.kr/members.html)  
 - 멋쟁이 사자처럼 대학 11기 수료(2023.08)  
 
 <h2 style="display: inline-block; vertical-align: middle;">🏆Prize </h2>
