@@ -62,10 +62,12 @@
 - [rhljh7410@gmail.com]
 
 <h2 style="display: inline-block; vertical-align: middle;">🎞Career </h2>
+
 - 계명대학교 NISL (2022.12 ~ 현재)  
 - 멋쟁이 사자처럼 대학 11기 수료(2023.08)  
 
 <h2 style="display: inline-block; vertical-align: middle;">🏆Prize </h2>
+
 - 23 LIKELION 대경 FEVER톤 우수상  
 
 ## 
