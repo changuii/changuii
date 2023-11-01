@@ -50,7 +50,7 @@
 <h2 style="display: inline-block; vertical-align: middle;">📜논문</h2>
 
 `대한전자공학회 2023년도 추계학술대회`
-- [마이크로 서비스 아키텍처 설계 및 구축을 위한 가상화 기술별 성능 비교 분석.docx](https://github.com/changuii/changuii/files/13187107/default.docx)
+- 마이크로 서비스 아키텍처 설계 및 구축을 위한 가상화 기술별 성능 비교 분석
 
   
 <h2 style="display: inline-block; vertical-align: middle;">🖋개인 블로그</h2>
