@@ -68,7 +68,8 @@
 
 <h2 style="display: inline-block; vertical-align: middle;">🏆Prize </h2>
 
-- 23 LIKELION 대경 FEVER톤 우수상  
+- 23 LIKELION 대경 FEVER톤 우수상
+- [4차 산업혁명 기반] 2023년 창의융합인재양성 공모전 우수상
 
 ## 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=changuii&show_icons=true&theme=radical&locale=en&layout=compact" alt="changuii" /></p>
