@@ -7,7 +7,7 @@
 
 <h2 style="display: inline-block; vertical-align: middle;">🚀운영중인 서비스</h2>
 
-- [의류 매장 관리 및 온라인 스토어 플랫폼]
+- `[의류 매장 관리 및 온라인 스토어 플랫폼]`
   - [https://github.com/TEAM-WARA/ON-OFF]
 
 <h2 style="display: inline-block; vertical-align: middle;">💼프로젝트 포트폴리오</h2>
