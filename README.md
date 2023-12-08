@@ -12,13 +12,13 @@
 
 <h2 style="display: inline-block; vertical-align: middle;">💼프로젝트 포트폴리오</h2>
 
-- [소상공인을 위한 마케팅 플랫폼] - Spring Boot, MySQL, Kafka, Redis, MSA
+- `[소상공인을 위한 마케팅 플랫폼]` - Spring Boot, MySQL, Kafka, Redis, MSA
   - [https://github.com/changuii/DigitalMarketing-Server]
-- [OFFLOAD - 짐 맡기는 플랫폼] - Spring Boot, MariaDB
+- `[OFFLOAD - 짐 맡기는 플랫폼]` - Spring Boot, MariaDB
   - [https://github.com/TEAM-WARA/OFFLOAD]
-- [의류 매장 관리 및 온라인 스토어 플랫폼] - Spring Boot, Spring Eureka, Spring Gateway, MSA
+- `[의류 매장 관리 및 온라인 스토어 플랫폼]` - Spring Boot, Spring Eureka, Spring Gateway, MSA
   - [https://github.com/TEAM-WARA/ON-OFF]
-- [할랄 음식 매장 웹앱 서비스] - Spring Boot, MySQL
+- `[할랄 음식 매장 웹앱 서비스]` - Spring Boot, MySQL
   - [https://github.com/changuii/HalalService]  
 
 
@@ -55,21 +55,21 @@
   
 <h2 style="display: inline-block; vertical-align: middle;">🖋개인 블로그</h2>
 
-- [https://g-db.tistory.com/]
+- `[https://g-db.tistory.com/]`
 
 <h2 style="display: inline-block; vertical-align: middle;">📧이메일</h2>
 
-- [rhljh7410@gmail.com]
+- `[rhljh7410@gmail.com]`
 
 <h2 style="display: inline-block; vertical-align: middle;">🎞Career </h2>
 
-- [계명대학교 NISL (2022.12 ~ 현재)](http://nisl.kmu.ac.kr/members.html)  
-- 멋쟁이 사자처럼 대학 11기 수료(2023.12)  
+- `[계명대학교 NISL (2022.12 ~ 현재)](http://nisl.kmu.ac.kr/members.html)`
+- `멋쟁이 사자처럼 대학 11기 수료(2023.12)`
 
 <h2 style="display: inline-block; vertical-align: middle;">🏆Prize </h2>
 
-- 23 LIKELION 대경 FEVER톤 우수상
-- [4차 산업혁명 기반] 2023년 창의융합인재양성 공모전 우수상
+- `23 LIKELION 대경 FEVER톤 우수상`
+- `[4차 산업혁명 기반] 2023년 창의융합인재양성 공모전 우수상`
 
 ## 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=changuii&show_icons=true&theme=radical&locale=en&layout=compact" alt="changuii" /></p>
