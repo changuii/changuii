@@ -7,16 +7,13 @@
 
 <h2 style="display: inline-block; vertical-align: middle;">🚀운영중인 서비스</h2>
 
-`OFFLOAD` : 공유 공간 플랫폼
-- [운영중인 링크]( https://offloadwara.netlify.app/)
-
 
 <h2 style="display: inline-block; vertical-align: middle;">💼프로젝트 포트폴리오</h2>
 
 - [소상공인을 위한 마케팅 플랫폼] - Spring Boot, MySQL, Kafka, Redis, MSA
   - [https://github.com/changuii/DigitalMarketing-Server]
 - [OFFLOAD - 짐 맡기는 플랫폼] - Spring Boot, MariaDB
-  - [https://github.com/wara-capstone/CreativeFusion]
+  - [https://github.com/TEAM-WARA/CreativeFusion]
 - [의류 매장 관리 및 온라인 스토어 플랫폼] - Spring Boot, Spring Eureka, Spring Gateway, MSA
   - []
 - [할랄 음식 매장 웹앱 서비스] - Spring Boot, MySQL
