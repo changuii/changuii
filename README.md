@@ -55,7 +55,7 @@
   
 <h2 style="display: inline-block; vertical-align: middle;">🖋개인 블로그</h2>
 
-- `[https://g-db.tistory.com/]`
+- [https://g-db.tistory.com/]
 
 <h2 style="display: inline-block; vertical-align: middle;">📧이메일</h2>
 
@@ -63,7 +63,7 @@
 
 <h2 style="display: inline-block; vertical-align: middle;">🎞Career </h2>
 
-- `[계명대학교 NISL (2022.12 ~ 현재)](http://nisl.kmu.ac.kr/members.html)`
+- [계명대학교 NISL (2022.12 ~ 현재)](http://nisl.kmu.ac.kr/members.html)
 - `멋쟁이 사자처럼 대학 11기 수료(2023.12)`
 
 <h2 style="display: inline-block; vertical-align: middle;">🏆Prize </h2>
