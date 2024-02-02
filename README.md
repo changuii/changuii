@@ -26,17 +26,18 @@
 <h2 style="display: inline-block; vertical-align: middle;">🛠 기술 스택</h2>
 
 <div align=center>
-
+<!-- 
 
 <img src="./assets/Java-Light.svg" alt="" height=100px>
 
 <img src="./assets/AWS-Light.svg" alt="" height=100px>
 <img src="./assets/Docker.svg" alt="" height=100px>
-<img src="./assets/MySQL-Light.svg" alt="" height=100px>
-
+<img src="./assets/MySQL-Light.svg" alt="" height=100px> 
 <img src="./assets/Gradle-Light.svg" alt="" height=100px>
-<img src="./assets/Spring-Light.svg" alt="" height=100px>
 <img src="./assets/Hibernate-Light.svg" alt="" height=100px>
+-->
+
+<img src="./assets/Spring-Light.svg" alt="" height=100px>
 
 
 
