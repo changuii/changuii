@@ -27,23 +27,21 @@
 
 <div align=center>
 
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
-<img src="https://img.shields.io/badge/docker-0769AD?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/hibernate-F7DF1E?style=for-the-badge&logo=hibernate&logoColor=black">
-<img src="https://img.shields.io/badge/apachekafka-181717?style=for-the-badge&logo=apachekafka&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/GameMaker-47A248?style=for-the-badge&logo=gamemaker&logoColor=white">
-<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
+
+<img src="./assets/Java-Light.svg" alt="" height=100px>
+
+<img src="./assets/AWS-Light.svg" alt="" height=100px>
+<img src="./assets/Docker.svg" alt="" height=100px>
+<img src="./assets/MySQL-Light.svg" alt="" height=100px>
+
+<img src="./assets/Gradle-Light.svg" alt="" height=100px>
+<img src="./assets/Spring-Light.svg" alt="" height=100px>
+<img src="./assets/Hibernate-Light.svg" alt="" height=100px>
+
+
+
 
 </div>
-
 
 
 <h2 style="display: inline-block; vertical-align: middle;">📜논문</h2>
