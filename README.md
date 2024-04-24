@@ -3,25 +3,6 @@
 <h2 style="display: inline-block; vertical-align: middle;">📌소개</h2>
 
 - 계명대학교 컴퓨터공학부 컴퓨터공학전공에 재학중인 이창의 입니다.
-- 백엔드, MSA, Devops에 관심 있습니다.
-
-<h2 style="display: inline-block; vertical-align: middle;">🚀운영중인 서비스</h2>
-
-- `[의류 매장 관리 및 온라인 스토어 플랫폼]`
-  - [https://github.com/TEAM-WARA/ON-OFF]
-
-<h2 style="display: inline-block; vertical-align: middle;">💼프로젝트 포트폴리오</h2>
-
-- `[소상공인을 위한 마케팅 플랫폼]` - Spring Boot, MySQL, Kafka, Redis, MSA
-  - [https://github.com/changuii/DigitalMarketing-Server]
-- `[OFFLOAD - 짐 맡기는 플랫폼]` - Spring Boot, MariaDB
-  - [https://github.com/TEAM-WARA/OFFLOAD]
-- `[의류 매장 관리 및 온라인 스토어 플랫폼]` - Spring Boot, Spring Eureka, Spring Gateway, MSA
-  - [https://github.com/TEAM-WARA/ON-OFF]
-- `[할랄 음식 매장 웹앱 서비스]` - Spring Boot, MySQL
-  - [https://github.com/changuii/HalalService]  
-
-
   
 <h2 style="display: inline-block; vertical-align: middle;">🛠 기술 스택</h2>
 
@@ -70,10 +51,3 @@
 
 - `23 LIKELION 대경 FEVER톤 우수상`
 - `[4차 산업혁명 기반] 2023년 창의융합인재양성 공모전 우수상`
-
-## 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=changuii&show_icons=true&theme=radical&locale=en&layout=compact" alt="changuii" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=changuii&show_icons=true&theme=radical&locale=en" alt="changuii" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=changuii&theme=dark" alt="changuii" /></p>
