@@ -18,7 +18,7 @@
 <img src="./assets/Hibernate-Light.svg" alt="" height=100px>
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=spring,docker,hibernate)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,docker,hibernate&theme=light)](https://skillicons.dev)
 
 
 
