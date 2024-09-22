@@ -32,6 +32,9 @@
 - 마이크로 서비스 아키텍처 설계 및 구축을 위한 가상화 기술별 성능 비교 분석
   - [DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11701299)
 
+`대한전자공학회 2024년도 하계학술대회`
+- 의료 환경에서의 Fog Computing을 위한 인증과 키 합의 스키마 보안 분석 및 제안
+  - [DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11891096)
   
 <h2 style="display: inline-block; vertical-align: middle;">🖋개인 블로그</h2>
 
@@ -50,3 +53,7 @@
 
 - `23 LIKELION 대경 FEVER톤 우수상`
 - `[4차 산업혁명 기반] 2023년 창의융합인재양성 공모전 우수상`
+
+<h2 style="display: inline-block; vertical-align: middle;">🏅Solved ac </h2>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rhljh201)](https://solved.ac/rhljh201)
