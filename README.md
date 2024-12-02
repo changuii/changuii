@@ -57,3 +57,8 @@
 <h2 style="display: inline-block; vertical-align: middle;">🏅Solved ac </h2>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rhljh201)](https://solved.ac/rhljh201)
+
+<div align="center" style="margin-top: 20px;">
+ <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Grass Animation">
+</div>
+
