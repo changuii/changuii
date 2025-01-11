@@ -7,22 +7,18 @@
 <h2 style="display: inline-block; vertical-align: middle;">🛠 Tech Stack </h2>
 
 <div align=center>
-<!-- 
 
-<img src="./assets/Java-Light.svg" alt="" height=100px>
+<h3>Backend</h3>
 
-<img src="./assets/AWS-Light.svg" alt="" height=100px>
-<img src="./assets/Docker.svg" alt="" height=100px>
-<img src="./assets/MySQL-Light.svg" alt="" height=100px> 
-<img src="./assets/Gradle-Light.svg" alt="" height=100px>
-<img src="./assets/Hibernate-Light.svg" alt="" height=100px>
--->
+[![My Skills](https://skillicons.dev/icons?i=spring,hibernate&theme=light)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=spring,docker,hibernate&theme=light)](https://skillicons.dev)
+<h3>Infra</h3>
 
+[![My Skills](https://skillicons.dev/icons?i=ubuntu,aws,docker&theme=light)](https://skillicons.dev)
 
+<h3>Frontend</h3>
 
-
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,vite&theme=light)](https://skillicons.dev)
 </div>
 
 
