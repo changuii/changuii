@@ -42,8 +42,11 @@
 
 <h2 style="display: inline-block; vertical-align: middle;">🎞Career </h2>
 
-- [계명대학교 NISL (2022.12 ~ 현재)](http://nisl.kmu.ac.kr/members.html)
-- `멋쟁이 사자처럼 대학 11기 수료(2023.12)`
+- `우아한 테크코스(2024.02 ~ ing)`
+- `계명대학교 컴퓨터공학전공 졸업(2019.02 ~ 2024.12)`
+- [계명대학교 NISL (2022.12 ~ 2024.12)](https://nisl.vercel.app/)
+- `멋쟁이 사자처럼 대학 12기 운영진 수료(2024.01 ~ 2024.12)`
+- `멋쟁이 사자처럼 대학 11기 수료(2023.01 ~ 2023.12)`
 
 <h2 style="display: inline-block; vertical-align: middle;">🏆Prize </h2>
 
