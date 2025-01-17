@@ -24,13 +24,11 @@
 
 <h2 style="display: inline-block; vertical-align: middle;">📜Paper</h2>
 
-`대한전자공학회 2023년도 추계학술대회`
-- 마이크로 서비스 아키텍처 설계 및 구축을 위한 가상화 기술별 성능 비교 분석
-  - [DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11701299)
+마이크로 서비스 아키텍처 설계 및 구축을 위한 가상화 기술별 성능 비교 분석 <sub>대한전자공학회 2023년도 추계학술대회</sub>
+- [DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11701299)
 
-`대한전자공학회 2024년도 하계학술대회`
-- 의료 환경에서의 Fog Computing을 위한 인증과 키 합의 스키마 보안 분석 및 제안
-  - [DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11891096)
+의료 환경에서의 Fog Computing을 위한 인증과 키 합의 스키마 보안 분석 및 제안 <sub>대한전자공학회 2024년도 하계학술대회</sub>
+- [DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11891096)
   
 <h2 style="display: inline-block; vertical-align: middle;">🖋Blog</h2>
 
