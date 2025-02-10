@@ -2,11 +2,11 @@
 
 <h2 style="display: inline-block; vertical-align: middle;">🎞Career </h2>
 
-- `우아한 테크코스(2024.02 ~ )`
-- `계명대학교 컴퓨터공학전공 졸업(2019.02 ~ 2024.12)`
-- `계명대학교 차세대 정보보안 연구실 NISL (2022.12 ~ 2024.12)` [link](https://nisl.vercel.app/)
-- `멋쟁이 사자처럼 대학 12기 운영진 수료(2024.01 ~ 2024.12)`
-- `멋쟁이 사자처럼 대학 11기 수료(2023.01 ~ 2023.12)`
+- 우아한테크코스 7기(2024.02 ~ )
+- 계명대학교 컴퓨터공학전공 졸업(2019.02 ~ 2024.12)
+- 계명대학교 차세대 정보보안 연구실 NISL (2022.12 ~ 2024.12) [link](https://nisl.vercel.app/)
+- 멋쟁이 사자처럼 대학 12기 운영진 수료(2024.01 ~ 2024.12)
+- 멋쟁이 사자처럼 대학 11기 수료(2023.01 ~ 2023.12)
 
 <h2 style="display: inline-block; vertical-align: middle;">📜Paper</h2>
 
@@ -33,7 +33,7 @@ PLAKA-MD: PUF-based Lightweight Authentication and Key Agreement Scheme for Medi
 
 <h3>Frontend</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,vite&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=light)](https://skillicons.dev)
 </div>
 
 <h2 style="display: inline-block; vertical-align: middle;">🖋Blog</h2>
@@ -46,8 +46,8 @@ PLAKA-MD: PUF-based Lightweight Authentication and Key Agreement Scheme for Medi
 
 <h2 style="display: inline-block; vertical-align: middle;">🏆Prize </h2>
 
-- `23 LIKELION 대경 FEVER톤 우수상`
-- `[4차 산업혁명 기반] 2023년 창의융합인재양성 공모전 우수상`
+- 23 LIKELION 대경 FEVER톤 <sub>우수상</sub>
+- 4차 산업혁명 기반 2023년 창의융합인재양성 공모전 <sub>우수상</sub>
 
 <h2 style="display: inline-block; vertical-align: middle;">🏅Solved ac </h2>
 
