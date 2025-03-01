@@ -11,7 +11,7 @@
 <h2 style="display: inline-block; vertical-align: middle;">📜Paper</h2>
 
 PLAKA-MD: PUF-based Lightweight Authentication and Key Agreement Scheme for Medical Devices in IoHT <sub>IEEE Internet of Things Journal</sub>
-- [link]
+- [link](https://ieeexplore.ieee.org/document/10906502)
 
 마이크로 서비스 아키텍처 설계 및 구축을 위한 가상화 기술별 성능 비교 분석 <sub>대한전자공학회 2023년도 추계학술대회</sub>
 - [link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11701299)
