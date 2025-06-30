@@ -1,7 +1,8 @@
-# 🔥 안녕하세요 창의입니다. 😄
+## 🔥 안녕하세요 창의입니다. 😄
 
 ![](https://komarev.com/ghpvc/?username=changuii&label=Profile%20views&color=af4bf1&style=flat) 
-<h2 style="display: inline-block; vertical-align: middle;"> Experience </h2>
+
+## Experience
 
 - 우아한테크코스 BE 7기(2024.02 ~ )
 - 계명대학교 컴퓨터공학전공 졸업(2019.02 ~ 2024.12)
@@ -9,7 +10,7 @@
 - 멋쟁이 사자처럼 대학 12기 운영진 수료(2024.01 ~ 2024.12)
 - 멋쟁이 사자처럼 대학 11기 수료(2023.01 ~ 2023.12)
 
-<h2 style="display: inline-block; vertical-align: middle;">Paper</h2>
+## Paper
 
 PLAKA-MD: PUF-based Lightweight Authentication and Key Agreement Scheme for Medical Devices in IoHT <sub>IEEE Internet of Things Journal</sub>
 - [link](https://ieeexplore.ieee.org/document/10906502)
@@ -20,13 +21,17 @@ PLAKA-MD: PUF-based Lightweight Authentication and Key Agreement Scheme for Medi
 의료 환경에서의 Fog Computing을 위한 인증과 키 합의 스키마 보안 분석 및 제안 <sub>대한전자공학회 2024년도 하계학술대회</sub>
 - [link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11891096)
 
+
+
+
+<!--
 <h2 style="display: inline-block; vertical-align: middle;"> Tech Stack </h2>
 
 <div align=center>
 
 [![My Skills](https://skillicons.dev/icons?i=spring&theme=light)](https://skillicons.dev)
 
-<!--
+
 <h3>Backend</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=spring,hibernate&theme=light)](https://skillicons.dev)
@@ -38,7 +43,6 @@ PLAKA-MD: PUF-based Lightweight Authentication and Key Agreement Scheme for Medi
 <h3>Frontend</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=light)](https://skillicons.dev)
--->
 </div>
 
 <h2 style="display: inline-block; vertical-align: middle;"> Solved ac </h2>
@@ -49,6 +53,6 @@ PLAKA-MD: PUF-based Lightweight Authentication and Key Agreement Scheme for Medi
 
 </div>
 
-<!--
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=changuii&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)  
 -->
