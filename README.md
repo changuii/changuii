@@ -36,19 +36,6 @@ PLAKA-MD: PUF-based Lightweight Authentication and Key Agreement Scheme for Medi
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=light)](https://skillicons.dev)
 </div>
 
-<h2 style="display: inline-block; vertical-align: middle;">🖋Blog</h2>
-
-- [link](https://g-db.tistory.com/)
-
-<h2 style="display: inline-block; vertical-align: middle;">📧Email</h2>
-
-- `rhljh7410@gmail.com`
-
-<h2 style="display: inline-block; vertical-align: middle;">🏆Prize </h2>
-
-- 23 LIKELION 대경 FEVER톤 <sub>우수상</sub>
-- 4차 산업혁명 기반 2023년 창의융합인재양성 공모전 <sub>우수상</sub>
-
 <h2 style="display: inline-block; vertical-align: middle;">🏅Solved ac </h2>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rhljh201)](https://solved.ac/rhljh201)
